@@ -1,0 +1,39 @@
+{
+  "name": "mr95-adventure-game",
+  "version": "1.0.0",
+  "description": "Welcome to the Adventure Game! This is a simple command-line role-playing game built with TypeScript.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adventure game",
+    "interactive fiction",
+    "exploration",
+    "story-driven game",
+    "fantasy adventure",
+    "quest game",
+    "role-playing game",
+    "puzzle-solving",
+    "action-adventure",
+    "mystery game",
+    "adventure RPG",
+    "adventure simulation",
+    "text-based adventure",
+    "open world exploration",
+    "adventure storytelling",
+    "adventure gameplay"
+  ],
+  "author": "Mariam Rauf",
+  "license": "Mit",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.11"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.2"
+  }
+}
